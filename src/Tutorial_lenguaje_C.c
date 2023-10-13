@@ -12,6 +12,6 @@
 #include <stdlib.h>
 
 int main(void) {
-	puts("Tutorial"); /* prints Tutorial */
+	printf("Tutorial2\n"); /* prints Tutorial */
 	return EXIT_SUCCESS;
 }
